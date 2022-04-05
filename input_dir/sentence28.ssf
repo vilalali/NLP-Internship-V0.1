@@ -1,0 +1,42 @@
+<Sentence id='28'>
+1	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+1.1	कहते	V_VM	<fs af='कह,v,m,pl,any,,ता,wA' name='कहते'>
+1.2	हैं	V_VAUX	<fs af='है,v,any,pl,3,,है,hE' name='हैं'>
+	))
+2	((	CCP	<fs name='CCP' drel='k2:VGF'>
+2.1	कि	CC_CCS	<fs af='कि,avy,,,,,,' name='कि'>
+	))
+3	((	NP	<fs name='NP' drel='k7p:VGF2'>
+3.1	उज्जैन	N_NNP	<fs af='उज्जैन,n,m,sg,3,o,0,0' name='उज्जैन'>
+3.2	में	PSP	<fs af='में,psp,,,,,,' name='में'>
+	))
+4	((	NP	<fs name='NP2' drel='k2:VGNN'>
+4.1	महाकाल	N_NNP	<fs af='महाकाल,n,m,sg,3,o,0,0' name='महाकाल'>
+4.2	को	PSP	<fs af='को,psp,,,,,,' name='को'>
+	))
+5	((	NP	<fs name='NP3' drel='pof:VGNN'>
+5.1	नमस्कार	N_NN	<fs af='नमस्कार,n,m,sg,3,d,0,0' name='नमस्कार'>
+	))
+6	((	VGNN	<fs name='VGNN' drel='k7:VGF2'>
+6.1	कर	V_VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+6.2	लेने	V_VM	<fs af='ले,v,any,any,any,o,ना,nA' name='लेने'>
+6.3	पर	PSP	<fs af='पर,psp,,,,,,' name='पर'>
+	))
+7	((	RBP	<fs name='RBP' drel='adv:VGF2'>
+7.1	फिर	RB	<fs af='फिर,adv,,,,,,' name='फिर'>
+	))
+8	((	NP	<fs name='NP4' drel='r6:NP5'>
+8.1	मृत्यु	N_NN	<fs af='मृत्यु,n,f,sg,3,o,0,0' name='मृत्यु'>
+8.2	की	PSP	<fs af='का,psp,f,sg,,d,,' name='की'>
+	))
+9	((	NP	<fs name='NP5' drel='k1:VGF2'>
+9.1	चिंता	N_NN	<fs af='चिंता,n,f,sg,3,d,0,0' name='चिंता'>
+	))
+10	((	VGF	<fs name='VGF2' voicetype='active' stype='declarative' drel='ccof:CCP'>
+10.1	नहीं	RP_NEG	<fs af='नहीं,avy,,,,,,' name='नहीं'>
+10.2	रहती	V_VM	<fs af='रह,v,f,sg,any,,ता,wA' name='रहती'>
+	))
+11	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+11.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

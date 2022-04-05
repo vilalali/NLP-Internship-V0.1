@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ भगवान राम के पूर्वज महाराज शिवि ने अपना वानप्रस्थ गढ़ मुक्तेश्वर में ही व्यतीत किया था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='nmod:NP3' drel='k1:VGF' drel='r6:NP5' drel='k2:VGF' drel='k7p:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ भगवान(0) राम(0) का() पूर्वज(0) महाराज(0) शिवि(0) ने() अपना(0) वानप्रस्थ(0) गढ़(0) मुक्तेश्वर(0) में() ही() व्यतीत() कर(या) था(था)
+
+

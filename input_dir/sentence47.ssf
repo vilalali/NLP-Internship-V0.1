@@ -1,0 +1,40 @@
+<Sentence id='47'>
+1	((	NULL__NP	<fs name='NULL__NP' mtype='gap' troot='यह' dmrel='k1:VGF'>
+1.1	NULL	PR_PRP	<fs af=',,,,,,,' name='NULL'>
+	))
+2	((	JJP	<fs name='JJP' drel='k1s:VGF'>
+2.1	ज्ञात	JJ	<fs af='ज्ञात,adj,any,any,,,,' name='ज्ञात'>
+	))
+3	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+3.1	रहे	V_VM	<fs af='रह,v,any,any,any,,एं,eM' name='रहे'>
+	))
+4	((	CCP	<fs name='CCP' drel='rs:NULL__NP'>
+4.1	कि	CC_CCS	<fs af='कि,avy,,,,,,' name='कि'>
+	))
+5	((	NP	<fs name='NP' drel='k2:VGF2'>
+5.1	शिव	N_NNP	<fs af='शिव,n,m,sg,3,d,0,0' name='शिव'>
+5.2	बल्लभपुर	N_NNP	<fs af='बल्लभपुर,n,m,sg,3,o,0,0' name='बल्लभपुर'>
+5.3	को	PSP	<fs af='को,psp,,,,,,' name='को'>
+5.4	ही	RP_RPD	<fs af='ही,avy,,,,,,' name='ही'>
+	))
+6	((	NP	<fs name='NP2' drel='k7t:VGF2'>
+6.1	अब	PR_PRP	<fs af='अब,pn,,,,d,,' name='अब'>
+	))
+7	((	NP	<fs name='NP3' drel='r6:NP4'>
+7.1	गढ़	N_NN	<fs af='गढ़,n,m,sg,3,d,0,0' name='गढ़'>
+7.2	मुक्तेश्वर	N_NNP	<fs af='मुक्तेश्वर,n,m,sg,3,o,0,0' name='मुक्तेश्वर'>
+7.3	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के'>
+	))
+8	((	NP	<fs name='NP4' drel='vmod:VGF2'>
+8.1	नाम	N_NN	<fs af='नाम,n,m,sg,3,o,0,0' name='नाम'>
+8.2	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+	))
+9	((	VGF	<fs name='VGF2' voicetype='active' stype='declarative' drel='ccof:CCP'>
+9.1	जाना	V_VM	<fs af='जान,v,m,sg,any,,या,yA' name='जाना'>
+9.2	जाता	V_VAUX	<fs af='जा,v,m,sg,any,,ता,wA' name='जाता'>
+9.3	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+10	((	BLK	<fs name='BLK' drel='UNDEF:VGF'>
+10.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

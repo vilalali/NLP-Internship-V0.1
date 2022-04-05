@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ उत्तर रेलवे की मुगलसराय - लखनऊ लाइन के मुगलसराय स्टेशन से 128 मील की दूरी पर अयोध्या स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='r6:NP3' drel='nmod:NP4' drel='r6:NP5' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ उत्तर(0) रेलवे(0) का() मुगलसराय(0) -() लखनऊ(0) लाइन(0) का() मुगलसराय(0) स्टेशन(0) से() 128() मील(0) का() दूरी(0) पर() अयोध्या(0) स्टेशन(0) है(है)
+
+

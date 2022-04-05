@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ वे इस सोच में पड़ गए कि युद्ध में मारे गए असंख्य कुटुम्बियों , बंधुओं व निर्दोष लोगों की आत्मा की शांति के लिए क्या उपाय या संस्कार किया जाए ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7:VGF' drel='k2:VGF' drel='k7:VGNF' drel='nmod__k1inv:NP4' drel='ccof:CCP2' drel='ccof:CCP2' drel='r6:NP7' drel='ccof:CCP2' drel='r6:NP8' drel='rt:VGF2' drel='ccof:CCP3' drel='pof:VGF2' drel='ccof:CCP3' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ वह(0) यह() सोच(0) में() पड़(0) जा(या1) कि() युद्ध(0) में() मार(या) जा(या1) असंख्य() कुटुम्बी(0) बंधु(0) व() निर्दोष() लोग(0) का() आत्मा(0) का() शांति(0) के() लिए() क्या() उपाय(0) या() संस्कार(0) कर(या) जा(एं)
+
+

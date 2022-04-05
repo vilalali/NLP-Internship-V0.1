@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ हिंदू धर्म में तीर्थ का बड़ा महत्व है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7:VGF' drel='r6:NP3' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ हिंदू(0) धर्म(0) में() तीर्थ(0) का() बड़ा() महत्व(0) है(है)
+
+

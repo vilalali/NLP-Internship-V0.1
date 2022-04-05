@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ तब सबने एक राय से निर्णय लिया था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGF' drel='k1:VGF' drel='adv:VGF' drel='k2:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ तब() सब(ने) एक() राय(0) से() निर्णय(0) ले(या) था(था)
+
+

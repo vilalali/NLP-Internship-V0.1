@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ पश्चिम रेलवे की मुंबई - कोटा - दिल्ली लाइन पर नागदा स्टेशन से एक बड़ी लाइन भी उज्जैन तक गई है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k7p:VGF' drel='k5:VGF' drel='k1:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पश्चिम(0) रेलवे(0) का() मुंबई(0) -() कोटा(0) -() दिल्ली(0) लाइन(0) पर() नागदा(0) स्टेशन(0) से() एक() बड़ा() लाइन(0) भी() उज्जैन(0) तक() जा(या1) है(है)
+
+

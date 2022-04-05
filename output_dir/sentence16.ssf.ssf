@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ उत्तर रेलवे की मुगलसराय से अमृतसर जाने वाली मुख्य लाइन पर स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP4' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ उत्तर(0) रेलवे(0) का() मुगलसराय(0) से() अमृतसर(0) जा(ना) वाला() मुख्य() लाइन(0) पर() स्टेशन(0) है(है)
+
+

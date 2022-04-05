@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ हरिद्वार में प्रतिदिन शाम को होने वाली माँ गंगा की आरती के समय श्रद्धालुओं की भीड़ उमड़ पड़ती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' drel='k7t:VGNN' drel='nmod:NP4' drel='r6:NP4' drel='r6:NP5' drel='k7t:VGF' drel='r6:NP7' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ हरिद्वार(0) में() प्रतिदिन() शाम(0) को() हो(ना) वाला() माँ(0) गंगा(0) का() आरती(0) का() समय(0) श्रद्धालु(0) का() भीड़(0) उमड़(0) पड़(ता) है(है)
+
+

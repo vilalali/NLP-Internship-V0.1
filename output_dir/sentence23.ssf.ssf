@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ स्टेशन का नाम कांजीवरम जरूर है किंतु नगर का नाम कांचीपुरम है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:VGF' drel='k1s:VGF' drel='adv:VGF' drel='ccof:CCP' drel='r6:NP5' drel='k1:VGF2' drel='k1s:VGF2' drel='ccof:CCP' drel='rsym:CCP'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ स्टेशन(0) का() नाम(0) कांजीवरम(0) जरूर() है(है) किंतु() नगर(0) का() नाम(0) कांचीपुरम(0) है(है)
+
+

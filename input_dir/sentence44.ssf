@@ -1,0 +1,67 @@
+<Sentence id='44'>
+1	((	NP	<fs name='NP' drel='k1:VGF'>
+1.1	वे	PR_PRP	<fs af='वह,pn,any,pl,3,d,0,0' name='वे'>
+	))
+2	((	NP	<fs name='NP2' drel='k7:VGF'>
+2.1	इस	DM_DMD	<fs af='यह,pn,any,sg,3,o,,' name='इस'>
+2.2	सोच	N_NN	<fs af='सोच,n,f,sg,3,o,0,0' name='सोच'>
+2.3	में	PSP	<fs af='में,psp,,,,,,' name='में'>
+	))
+3	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+3.1	पड़	V_VM	<fs af='पड़,v,any,any,any,,0,0' name='पड़'>
+3.2	गए	V_VAUX	<fs af='जा,v,m,pl,any,,या1,yA1' name='गए'>
+	))
+4	((	CCP	<fs name='CCP' drel='k2:VGF'>
+4.1	कि	CC_CCS	<fs af='कि,avy,,,,,,' name='कि'>
+	))
+5	((	NP	<fs name='NP3' drel='k7:VGNF'>
+5.1	युद्ध	N_NN	<fs af='युद्ध,n,m,sg,3,o,0,0' name='युद्ध'>
+5.2	में	PSP	<fs af='में,psp,,,,,,' name='में2'>
+	))
+6	((	VGNF	<fs name='VGNF' drel='nmod__k1inv:NP4'>
+6.1	मारे	V_VM	<fs af='मार,v,m,any,any,,या,yA' name='मारे'>
+6.2	गए	V_VAUX	<fs af='जा,v,m,any,any,,या1,yA1' name='गए2'>
+	))
+7	((	NP	<fs name='NP4' drel='ccof:CCP2'>
+7.1	असंख्य	QT_QTF	<fs af='असंख्य,avy,,,,,,' name='असंख्य'>
+7.2	कुटुम्बियों	N_NN	<fs af='कुटुम्बी,n,m,pl,3,o,0,0' name='कुटुम्बियों'>
+7.3	,	RD_PUNC	<fs af='&comma,punc,,,,,,' name=','>
+	))
+8	((	NP	<fs name='NP5' drel='ccof:CCP2'>
+8.1	बंधुओं	N_NN	<fs af='बंधु,n,m,pl,3,o,0,0' name='बंधुओं'>
+	))
+9	((	CCP	<fs name='CCP2' drel='r6:NP7'>
+9.1	व	CC_CCS	<fs af='व,avy,,,,,,' name='व'>
+	))
+10	((	NP	<fs name='NP6' drel='ccof:CCP2'>
+10.1	निर्दोष	JJ	<fs af='निर्दोष,adj,any,any,,o,,' name='निर्दोष'>
+10.2	लोगों	N_NN	<fs af='लोग,n,m,pl,3,o,0,0' name='लोगों'>
+10.3	की	PSP	<fs af='का,psp,f,sg,,o,,' name='की'>
+	))
+11	((	NP	<fs name='NP7' drel='r6:NP8'>
+11.1	आत्मा	N_NN	<fs af='आत्मा,n,f,sg,3,o,0,0' name='आत्मा'>
+11.2	की	PSP	<fs af='का,psp,f,sg,,o,,' name='की2'>
+	))
+12	((	NP	<fs name='NP8' drel='rt:VGF2'>
+12.1	शांति	N_NN	<fs af='शांति,n,f,sg,3,o,0,0' name='शांति'>
+12.2	के	PSP	<fs af='के,psp,,,,,,' name='के'>
+12.3	लिए	PSP	<fs af='लिए,psp,,,,,,' name='लिए'>
+	))
+13	((	NP	<fs name='NP9' drel='ccof:CCP3'>
+13.1	क्या	PR_PRQ	<fs af='क्या,pn,,,,,,' name='क्या'>
+13.2	उपाय	N_NN	<fs af='उपाय,n,m,sg,3,d,0,0' name='उपाय'>
+	))
+14	((	CCP	<fs name='CCP3' drel='pof:VGF2'>
+14.1	या	CC_CCS	<fs af='या,avy,,,,,,' name='या'>
+	))
+15	((	NP	<fs name='NP10' drel='ccof:CCP3'>
+15.1	संस्कार	N_NN	<fs af='संस्कार,n,m,sg,3,d,0,0' name='संस्कार'>
+	))
+16	((	VGF	<fs name='VGF2' voicetype='active' stype='declarative' drel='ccof:CCP'>
+16.1	किया	V_VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+16.2	जाए	V_VAUX	<fs af='जा,v,any,sg,3,,एं,eM' name='जाए'>
+	))
+17	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+17.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

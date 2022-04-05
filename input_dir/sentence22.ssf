@@ -1,0 +1,28 @@
+<Sentence id='22'>
+1	((	NP	<fs name='NP' drel='k5:VGNN'>
+1.1	चेंगलपट	N_NNP	<fs af='चेंगलपट,n,m,sg,3,d,0,0' name='चेंगलपट'>
+1.2	स्टेशन	N_NN	<fs af='स्टेशन,n,m,sg,3,o,0,0' name='स्टेशन'>
+1.3	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+	))
+2	((	NP	<fs name='NP2' drel='k2p:VGNN'>
+2.1	अरकोनम	N_NNP	<fs af='अरकोनम,n,m,sg,3,d,0,0' name='अरकोनम'>
+	))
+3	((	VGNN	<fs name='VGNN' drel='nmod:NP3'>
+3.1	जाने	V_VM	<fs af='जान,v,any,any,any,o,ना,nA' name='जाने'>
+3.2	वाली	PSP	<fs af='वाला,psp,f,sg,,o,,' name='वाली'>
+	))
+4	((	NP	<fs name='NP3' drel='k7p:VGF'>
+4.1	लाइन	N_NN	<fs af='लाइन,n,f,sg,3,o,0,0' name='लाइन'>
+4.2	पर	PSP	<fs af='पर,psp,,,,,,' name='पर'>
+	))
+5	((	NP	<fs name='NP4' drel='k1:VGF'>
+5.1	कांजीवरम	N_NNP	<fs af='कांजीवरम,n,m,sg,3,d,0,0' name='कांजीवरम'>
+5.2	स्टेशन	N_NN	<fs af='स्टेशन,n,m,sg,3,d,0,0' name='स्टेशन2'>
+	))
+6	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+6.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+7	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+7.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

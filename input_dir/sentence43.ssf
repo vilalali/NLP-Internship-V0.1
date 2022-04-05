@@ -1,0 +1,76 @@
+<Sentence id='43'>
+1	((	NP	<fs name='NP' drel='r6:NP2'>
+1.1	गढ़	N_NN	<fs af='गढ़,n,m,sg,3,d,0,0' name='गढ़'>
+1.2	मुक्तेश्वर	N_NNP	<fs af='मुक्तेश्वर,n,m,sg,3,o,0,0' name='मुक्तेश्वर'>
+1.3	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के'>
+	))
+2	((	NP	<fs name='NP2' drel='k7:VGF'>
+2.1	विषय	N_NN	<fs af='विषय,n,m,sg,3,o,0,0' name='विषय'>
+2.2	में	PSP	<fs af='में,psp,,,,,,' name='में'>
+	))
+3	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+3.1	कहा	V_VM	<fs af='कह,v,m,sg,any,,या,yA' name='कहा'>
+3.2	जाता	V_VAUX	<fs af='जा,v,m,sg,any,,ता,wA' name='जाता'>
+3.3	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+4	((	CCP	<fs name='CCP' drel='k2:VGF'>
+4.1	कि	CC_CCS	<fs af='कि,avy,,,,,,' name='कि'>
+	))
+5	((	NP	<fs name='NP3' drel='r6:NP4'>
+5.1	महाभारत	N_NNP	<fs af='महाभारत,n,m,sg,3,o,0,0' name='महाभारत'>
+5.2	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के2'>
+	))
+6	((	NP	<fs name='NP4' drel='k7t:VGF2'>
+6.1	विनाशकारी	JJ	<fs af='विनाशकारी,adj,any,any,,o,,' name='विनाशकारी'>
+6.2	युद्ध	N_NN	<fs af='युद्ध,n,m,sg,3,o,0,0' name='युद्ध'>
+6.3	के	PSP	<fs af='के,psp,,,,,,' name='के3'>
+6.4	बाद	N_NST	<fs af='बाद,nst,m,sg,3,d,,' name='बाद'>
+	))
+7	((	NP	<fs name='NP5' drel='ccof:CCP2'>
+7.1	योगीराज	N_NN	<fs af='योगीराज,n,m,sg,3,d,0,0' name='योगीराज'>
+7.2	श्रीकृष्ण	N_NNP	<fs af='श्रीकृष्ण,n,m,sg,3,o,0,0' name='श्रीकृष्ण'>
+7.3	,	RD_PUNC	<fs af='&comma,punc,,,,,,' name=','>
+	))
+8	((	NP	<fs name='NP6' drel='ccof:CCP2'>
+8.1	धर्मराज	N_NN	<fs af='धर्मराज,n,m,sg,3,d,0,0' name='धर्मराज'>
+8.2	युधिष्ठिर	N_NNP	<fs af='युधिष्ठिर,n,m,sg,3,o,0,0' name='युधिष्ठिर'>
+	))
+9	((	CCP	<fs name='CCP2' drel='r6:NP8'>
+9.1	व	CC_CCS	<fs af='व,avy,,,,,,' name='व'>
+	))
+10	((	NP	<fs name='NP7' drel='ccof:CCP2'>
+10.1	अर्जुन	N_NNP	<fs af='अर्जुन,n,m,sg,3,o,0,0' name='अर्जुन'>
+10.2	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के4'>
+	))
+11	((	NP	<fs name='NP8' drel='k7:VGF2'>
+11.1	मन	N_NN	<fs af='मन,n,m,sg,3,o,0,0' name='मन'>
+11.2	में	PSP	<fs af='में,psp,,,,,,' name='में2'>
+	))
+12	((	NP	<fs name='NP9' drel='r6:NP10'>
+12.1	युद्ध	N_NN	<fs af='युद्ध,n,m,sg,3,o,0,0' name='युद्ध2'>
+12.2	की	PSP	<fs af='का,psp,f,sg,,o,,' name='की'>
+	))
+13	((	NP	<fs name='NP10' drel='ccof:CCP3'>
+13.1	विभीषिका	N_NN	<fs af='विभीषिका,n,f,sg,3,o,0,0' name='विभीषिका'>
+	))
+14	((	CCP	<fs name='CCP3' drel='k2:VGNF'>
+14.1	और	CC_CCD	<fs af='और,avy,,,,,,' name='और'>
+	))
+15	((	NP	<fs name='NP11' drel='ccof:CCP3'>
+15.1	नरसंहार	N_NN	<fs af='नरसंहार,n,m,sg,3,o,0,0' name='नरसंहार'>
+15.2	को	PSP	<fs af='को,psp,,,,,,' name='को'>
+	))
+16	((	VGNF	<fs name='VGNF' drel='vmod:VGF2'>
+16.1	देखकर	V_VM	<fs af='देख,v,any,any,any,,कर,kara' name='देखकर'>
+	))
+17	((	NP	<fs name='NP12' drel='pof:VGF2'>
+17.1	भारी	JJ	<fs af='भारी,adj,any,any,,d,,' name='भारी'>
+17.2	ग्लानि	N_NN	<fs af='ग्लानि,n,f,sg,3,d,0,0' name='ग्लानि'>
+	))
+18	((	VGF	<fs name='VGF2' voicetype='active' stype='declarative' drel='ccof:CCP'>
+18.1	हुई	V_VM	<fs af='हो,v,f,any,any,,या,yA' name='हुई'>
+	))
+19	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+19.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ पूर्वोत्तर रेलवे की एक लाइन भटनी से NULL तथा दूसरी छपरा से इलाहाबाद सिटी तक जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:NULL__VGF' drel='k5:NULL__VGF' drel='k1:VGF' drel='rsp:NP6' drel='k7p:VGF' drel='ccof:CCP' drel='rsym:CCP'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पूर्वोत्तर(0) रेलवे(0) का() एक() लाइन(0) भटनी(0) से() () तथा() दूसरा() छपरा(0) से() इलाहाबाद(0) सिटी(0) तक() जा(ता) है(है)
+
+

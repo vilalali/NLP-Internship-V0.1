@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ चेंगलपट स्टेशन से अरकोनम जाने वाली लाइन पर कांजीवरम स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP3' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ चेंगलपट(0) स्टेशन(0) से() अरकोनम(0) जान(ना) वाला() लाइन(0) पर() कांजीवरम(0) स्टेशन(0) है(है)
+
+

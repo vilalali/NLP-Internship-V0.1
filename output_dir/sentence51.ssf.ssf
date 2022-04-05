@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ गढ़ मुक्तेश्वर का नाम शिव बल्लभपुर पड़ा ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गढ़(0) मुक्तेश्वर(0) का() नाम(0) शिव(0) बल्लभपुर(0) पड़(या)
+
+

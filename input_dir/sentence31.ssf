@@ -1,0 +1,28 @@
+<Sentence id='31'>
+1	((	NP	<fs name='NP' drel='r6:NP2'>
+1.1	उक्त	JJ	<fs af='उक्त,adj,any,any,,o,,' name='उक्त'>
+1.2	लाइन	N_NN	<fs af='लाइन,n,f,sg,3,o,0,0' name='लाइन'>
+1.3	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के'>
+	))
+2	((	NP	<fs name='NP2' drel='k5:VGF'>
+2.1	महू	N_NNP	<fs af='महू,n,m,sg,3,d,0,0' name='महू'>
+2.2	स्टेशन	N_NN	<fs af='स्टेशन,n,m,sg,3,o,0,0' name='स्टेशन'>
+2.3	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+2.4	भी	RP_RPD	<fs af='भी,avy,,,,,,' name='भी'>
+	))
+3	((	NP	<fs name='NP3' drel='k1:VGF'>
+3.1	एक	QT_QTC	<fs af='एक,num,any,any,,any,,' name='एक'>
+3.2	लाइन	N_NN	<fs af='लाइन,n,f,sg,3,d,0,0' name='लाइन2'>
+	))
+4	((	NP	<fs name='NP4' drel='k7p:VGF'>
+4.1	उज्जैन	N_NNP	<fs af='उज्जैन,n,m,sg,3,o,0,0' name='उज्जैन'>
+4.2	को	PSP	<fs af='को,psp,,,,,,' name='को'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+5.1	गई	V_VM	<fs af='जा,v,f,any,any,,या1,yA1' name='गई'>
+5.2	है	V_VAUX	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

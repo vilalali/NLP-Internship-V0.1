@@ -1,0 +1,26 @@
+<Sentence id='15'>
+1	((	NP	<fs name='NP' drel='k7p:VGNF'>
+1.1	गंगा	N_NNP	<fs af='गंगा,n,f,sg,3,d,0,0' name='गंगा'>
+1.2	नदी	N_NN	<fs af='नदी,n,f,sg,3,o,0,0' name='नदी'>
+1.3	पर	PSP	<fs af='पर,psp,,,,,,' name='पर'>
+	))
+2	((	VGNF	<fs name='VGNF' drel='nmod__k1inv:NP2'>
+2.1	तैरती	V_VM	<fs af='तैर,v,f,any,any,,ता,wA' name='तैरती'>
+	))
+3	((	NP	<fs name='NP2' drel='r6:NP3'>
+3.1	दीपमालाओं	N_NN	<fs af='दीपमाला,n,f,pl,3,o,0,0' name='दीपमालाओं'>
+3.2	का	PSP	<fs af='का,psp,m,sg,,d,,' name='का'>
+	))
+4	((	NP	<fs name='NP3' drel='k1:VGF'>
+4.1	दृश्य	N_NN	<fs af='दृश्य,n,m,sg,3,d,0,0' name='दृश्य'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+5.1	देखते	V_VM	<fs af='देख,v,m,any,any,,ता,wA' name='देखते'>
+5.2	ही	RP_RPD	<fs af='ही,avy,,,,,,' name='ही'>
+5.3	बनता	V_VAUX	<fs af='बन,v,m,sg,any,,ता,wA' name='बनता'>
+5.4	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

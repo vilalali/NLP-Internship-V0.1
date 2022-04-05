@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ गंगा नदी पर तैरती दीपमालाओं का दृश्य देखते ही बनता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGNF' drel='nmod__k1inv:NP2' drel='r6:NP3' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गंगा(0) नदी(0) पर() तैर(ता) दीपमाला(0) का() दृश्य(0) देख(ता) ही() बन(ता) है(है)
+
+

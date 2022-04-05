@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ मध्य रेलवे की मुंबई - भोपाल - दिल्ली लाइन के भोपाल स्टेशन से एक लाइन उज्जैन जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='r6:NP3' drel='k5:VGF' drel='k1:VGF' drel='k2p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ मध्य() रेलवे(0) का() मुंबई(0) -() भोपाल(0) -() दिल्ली(0) लाइन(0) का() भोपाल(0) स्टेशन(0) से() एक() लाइन(0) उज्जैन(0) जा(ता) है(है)
+
+

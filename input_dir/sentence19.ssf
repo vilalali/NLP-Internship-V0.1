@@ -1,0 +1,36 @@
+<Sentence id='19'>
+1	((	NP	<fs name='NP' drel='k7t:VGNF'>
+1.1	तब	PR_PRP	<fs af='तब,pn,,,,d,,' name='तब'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	महालक्ष्मी	N_NNP	<fs af='महालक्ष्मी,n,f,sg,3,d,0,0' name='महालक्ष्मी'>
+	))
+3	((	NP	<fs name='NP3' drel='k7p:VGNF'>
+3.1	हाथ	N_NN	<fs af='हाथ,n,m,sg,3,o,0,0' name='हाथ'>
+3.2	में	PSP	<fs af='में,psp,,,,,,' name='में'>
+	))
+4	((	NP	<fs name='NP4' drel='k2:VGNF'>
+4.1	कमल	N_NN	<fs af='कमल,n,m,sg,3,d,0,0' name='कमल'>
+	))
+5	((	NP	<fs name='NP5' drel='pof:VGNF'>
+5.1	धारण	N_NN	<fs af='धारण,n,m,sg,3,d,0,0' name='धारण'>
+	))
+6	((	VGNF	<fs name='VGNF' drel='vmod:VGF'>
+6.1	किए	V_VM	<fs af='कर,v,m,any,any,,या,yA' name='किए'>
+6.2	हुए	V_VAUX	<fs af='हो,v,m,any,any,,या,yA' name='हुए'>
+	))
+7	((	NP	<fs name='NP6' drel='k7p:VGF'>
+7.1	उनके	PR_PRP	<fs af='वह,pn,any,sg,3h,o,के,ke' agr_cas='d' agr_gen='m' agr_num='pl' name='उनके'>
+7.2	सामने	N_NST	<fs af='सामने,nst,m,sg,3,d,,' name='सामने'>
+	))
+8	((	NP	<fs name='NP7' drel='pof:VGF'>
+8.1	प्रकट	N_NN	<fs af='प्रकट,n,m,sg,3,d,0,0' name='प्रकट'>
+	))
+9	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+9.1	हुई	V_VM	<fs af='हो,v,f,any,any,,या,yA' name='हुई'>
+9.2	थीं	V_VAUX	<fs af='था,v,f,any,3h,,था,WA' name='थीं'>
+	))
+10	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+10.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

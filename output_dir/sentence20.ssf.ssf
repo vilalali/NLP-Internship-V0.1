@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ दक्षिण रेलवे के चेन्नै स्टेशन से धनुष्कोटि जाने वाली मुख्य लाइन पर चेन्नै से 35 मील की दूरी पर चेंगलपट स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP4' drel='k7p:VGF' drel='nmod:NP6' drel='r6:NP7' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ दक्षिण(0) रेलवे(0) का() चेन्नै(0) स्टेशन(0) से() धनुष्कोटि(0) जा(ना) वाला() मुख्य() लाइन(0) पर() चेन्नै(0) से() 35() मील(0) का() दूरी(0) पर() चेंगलपट(0) स्टेशन(0) है(है)
+
+

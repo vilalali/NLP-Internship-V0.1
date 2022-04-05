@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ इसका नाम बनारस या वाराणसी भी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:VGF' drel='ccof:CCP' drel='k1s:VGF' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह(का) नाम(0) बनारस(0) या() वाराणसी(0) भी() है(है)
+
+

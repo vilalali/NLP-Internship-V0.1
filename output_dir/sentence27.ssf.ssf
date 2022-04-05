@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ शिप्रा अथवा क्षिप्रा नदी के तट पर बसी महाकाल की यह उज्जैन नगरी पतित पावनी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='ccof:CCP' drel='nmod:NP3' drel='ccof:CCP' drel='r6:NP4' drel='k7p:VGNF' drel='nmod__k1inv:NP6' drel='r6:NP6' drel='k1:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ शिप्रा(0) अथवा() क्षिप्रा(0) नदी(0) का() तट(0) पर() बस(या) महाकाल(0) का() यह() उज्जैन(0) नगरी(0) पतित() पावनी() है(है)
+
+

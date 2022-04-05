@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ यमुना तट पर भगवान श्रीकृष्ण की अवतार भूमि का यह पवित्र नगर मथुरा है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' drel='r6:NP3' drel='r6:NP4' drel='k1:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यमुना(0) तट(0) पर() भगवान(0) श्रीकृष्ण(0) का() अवतार(0) भूमि(0) का() यह() पवित्र() नगर(0) मथुरा(0) है(है)
+
+

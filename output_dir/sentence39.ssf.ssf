@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ चलें गढ़ मुक्तेश्वर का गंगा मेला ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k2p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ चल(एं) गढ़(0) मुक्तेश्वर(0) का() गंगा(0) मेला(0)
+
+

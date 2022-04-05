@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ पश्चिम रेलवे की सुरेंद्रनगर - ओखा पोर्ट लाइन पर स्थित यह नगर समुद्र किनारे का स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='jjmod:JJP' drel='nmod:NP3' drel='k1:VGF' drel='r6:NP5' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पश्चिम(0) रेलवे(0) का() सुरेंद्रनगर(0) -() ओखा(0) पोर्ट(0) लाइन(0) पर() स्थित() यह() नगर(0) समुद्र(0) किनारा(0) का() स्टेशन(0) है(है)
+
+

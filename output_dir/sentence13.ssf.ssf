@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ इसलिए हरिद्वार को गंगा द्वार भी कहते हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='rh:VGF' drel='k2:VGF' drel='k2s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ इसलिए() हरिद्वार(0) को() गंगा(0) द्वार(0) भी() कह(ता) है(है)
+
+

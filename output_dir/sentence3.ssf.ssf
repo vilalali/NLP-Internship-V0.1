@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ यूँ तो हर तीर्थ बड़ा और अहम है , लेकिन सात स्थानों की बड़ी महत्ता और मान्यता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='sent-adv:VGF' drel='k1:VGF' drel='ccof:CCP' drel='k1s:VGF' drel='UNDEF:CCP' drel='ccof:CCP2' drel='r6:NP3' drel='ccof:CCP3' drel='k1:VGF2' drel='ccof:CCP3' drel='ccof:CCP2' drel='rsym:CCP2'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यूँ() तो() हर() तीर्थ(0) बड़ा() और() अहम() है(है) लेकिन() सात() स्थान(0) का() बड़ा() महत्ता(0) और() मान्यता(0) है(है)
+
+

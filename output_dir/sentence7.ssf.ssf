@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ गंगा किनारे यह भगवान शंकर की प्रसिद्ध पुरी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' drel='k1:VGF' drel='r6:NP4' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गंगा(0) किनारा(0) यह(0) भगवान(0) शंकर(0) का() प्रसिद्ध() पुरी(0) है(है)
+
+

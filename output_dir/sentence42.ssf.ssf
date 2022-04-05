@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ मुख्य स्नान 13 नवंबर को है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7t:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ मुख्य() स्नान(0) 13(0) नवंबर(0) को() है(है)
+
+

@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ पतित पावनी गंगा हरिद्वार में पर्वतीय क्षेत्र को छोड़कर समतल भूमि में प्रवेश करती हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7p:VGF' drel='k2:VGNF' drel='vmod:VGF' drel='k7p:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पतित() पावनी() गंगा(0) हरिद्वार(0) में() पर्वतीय() क्षेत्र(0) को() छोड़(कर) समतल() भूमि(0) में() प्रवेश(0) कर(ता) है(है)
+
+

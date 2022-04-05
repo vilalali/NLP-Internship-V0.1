@@ -1,0 +1,28 @@
+<Sentence id='33'>
+1	((	NP	<fs name='NP' drel='k1:VGF'>
+1.1	भगवान	N_NN	<fs af='भगवान,n,m,sg,3,d,0,0' name='भगवान'>
+1.2	कृष्ण	N_NNP	<fs af='कृष्ण,n,m,sg,3,o,0,0' name='कृष्ण'>
+1.3	ने	PSP	<fs af='ने,psp,,,,,,' name='ने'>
+	))
+2	((	NP	<fs name='NP2' drel='k2:VGF'>
+2.1	इसे	PR_PRP	<fs af='यह,pn,any,sg,3,o,को,ko' name='इसे'>
+	))
+3	((	NP	<fs name='NP3' drel='k7p:VGF'>
+3.1	समुद्र	N_NN	<fs af='समुद्र,n,m,sg,3,o,0,0' name='समुद्र'>
+3.2	के	PSP	<fs af='के,psp,,,,,,' name='के'>
+3.3	बीच	N_NST	<fs af='बीच,nst,m,sg,3,o,,' name='बीच'>
+3.4	में	PSP	<fs af='में,psp,,,,,,' name='में'>
+	))
+4	((	NP	<fs name='NP4' drel='adv:VGF'>
+4.1	विशेष	JJ	<fs af='विशेष,adj,any,any,,o,,' name='विशेष'>
+4.2	रूप	N_NN	<fs af='रूप,n,m,sg,3,o,0,0' name='रूप'>
+4.3	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+5.1	बसाया	V_VM	<fs af='बसा,v,m,sg,any,,या,yA' name='बसाया'>
+5.2	था	V_VAUX	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

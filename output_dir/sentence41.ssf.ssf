@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ इस बार भी गढ़ मुक्तेश्वर में मेले की भरपूर गहमागहमी है और मुख्य स्नान के लिए श्रद्धालुओं की भारी भीड़ जुट रही है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGF' drel='k7p:VGF' drel='r6:NP4' drel='k1:VGF' drel='ccof:CCP' drel='rt:VGF2' drel='r6:NP7' drel='k1:VGF2' drel='ccof:CCP' drel='rsym:CCP'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह() बार(0) भी() गढ़(0) मुक्तेश्वर(0) में() मेला(0) का() भरपूर() गहमागहमी(0) है(है) और() मुख्य() स्नान(0) के() लिए() श्रद्धालु(0) का() भारी() भीड़(0) जुट(0) रह(या) है(है)
+
+

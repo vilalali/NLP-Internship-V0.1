@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ इस रास्ते से भी बनारस सिटी होते हुए छावनी जा सकते हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k3:VGF' drel='k5:VGNF' drel='vmod:VGF' drel='k2p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह() रास्ता(0) से() भी() बनारस(0) सिटी(0) हो(ता) हो(या) छावनी(0) जा(0) सक(ता) है(है)
+
+

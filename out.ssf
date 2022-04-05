@@ -1,0 +1,583 @@
+
+Hindi Sentence:
+ 
+
+Karakas/Dependency relation in Sentence are :
+ 
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ 
+
+
+
+Hindi Sentence:
+ सप्तपुरियों के दर्शन से मिलता है मोक्ष ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='rh:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ सप्तपुरी(0) का() दर्शन(0) से() मिल(ता) है(है) मोक्ष(0)
+
+
+
+Hindi Sentence:
+ पूर्वोत्तर रेलवे की एक लाइन भटनी से NULL तथा दूसरी छपरा से इलाहाबाद सिटी तक जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:NULL__VGF' drel='k5:NULL__VGF' drel='k1:VGF' drel='rsp:NP6' drel='k7p:VGF' drel='ccof:CCP' drel='rsym:CCP'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पूर्वोत्तर(0) रेलवे(0) का() एक() लाइन(0) भटनी(0) से() () तथा() दूसरा() छपरा(0) से() इलाहाबाद(0) सिटी(0) तक() जा(ता) है(है)
+
+
+
+Hindi Sentence:
+ इस रास्ते से भी बनारस सिटी होते हुए छावनी जा सकते हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k3:VGF' drel='k5:VGNF' drel='vmod:VGF' drel='k2p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह() रास्ता(0) से() भी() बनारस(0) सिटी(0) हो(ता) हो(या) छावनी(0) जा(0) सक(ता) है(है)
+
+
+
+Hindi Sentence:
+ पतित पावनी गंगा हरिद्वार में पर्वतीय क्षेत्र को छोड़कर समतल भूमि में प्रवेश करती हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7p:VGF' drel='k2:VGNF' drel='vmod:VGF' drel='k7p:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पतित() पावनी() गंगा(0) हरिद्वार(0) में() पर्वतीय() क्षेत्र(0) को() छोड़(कर) समतल() भूमि(0) में() प्रवेश(0) कर(ता) है(है)
+
+
+
+Hindi Sentence:
+ इसलिए हरिद्वार को गंगा द्वार भी कहते हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='rh:VGF' drel='k2:VGF' drel='k2s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ इसलिए() हरिद्वार(0) को() गंगा(0) द्वार(0) भी() कह(ता) है(है)
+
+
+
+Hindi Sentence:
+ हरिद्वार में प्रतिदिन शाम को होने वाली माँ गंगा की आरती के समय श्रद्धालुओं की भीड़ उमड़ पड़ती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' drel='k7t:VGNN' drel='nmod:NP4' drel='r6:NP4' drel='r6:NP5' drel='k7t:VGF' drel='r6:NP7' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ हरिद्वार(0) में() प्रतिदिन() शाम(0) को() हो(ना) वाला() माँ(0) गंगा(0) का() आरती(0) का() समय(0) श्रद्धालु(0) का() भीड़(0) उमड़(0) पड़(ता) है(है)
+
+
+
+Hindi Sentence:
+ गंगा नदी पर तैरती दीपमालाओं का दृश्य देखते ही बनता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGNF' drel='nmod__k1inv:NP2' drel='r6:NP3' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गंगा(0) नदी(0) पर() तैर(ता) दीपमाला(0) का() दृश्य(0) देख(ता) ही() बन(ता) है(है)
+
+
+
+Hindi Sentence:
+ उत्तर रेलवे की मुगलसराय से अमृतसर जाने वाली मुख्य लाइन पर स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP4' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ उत्तर(0) रेलवे(0) का() मुगलसराय(0) से() अमृतसर(0) जा(ना) वाला() मुख्य() लाइन(0) पर() स्टेशन(0) है(है)
+
+
+
+Hindi Sentence:
+ लक्सर से एक लाइन हरिद्वार तक गई है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k5:VGF' drel='k1:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ लक्सर(0) से() एक() लाइन(0) हरिद्वार(0) तक() जा(या1) है(है)
+
+
+
+Hindi Sentence:
+ प्राचीन काल में पितामह ब्रह्माजी ने कांची में माँ भगवती के दर्शन के लिए दुष्कर तपस्या की थी ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGF' drel='k1:VGF' drel='k7p:VGF' drel='r6:NP5' drel='rt:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ प्राचीन() काल(0) में() पितामह(0) ब्रह्माजी(जी) ने() कांची(0) में() माँ(0) भगवती(0) का() दर्शन(0) के() लिए() दुष्कर() तपस्या(0) कर(या) था(था)
+
+
+
+Hindi Sentence:
+ तब महालक्ष्मी हाथ में कमल धारण किए हुए उनके सामने प्रकट हुई थीं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGNF' drel='k1:VGF' drel='k7p:VGNF' drel='k2:VGNF' drel='pof:VGNF' drel='vmod:VGF' drel='k7p:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ तब() महालक्ष्मी(0) हाथ(0) में() कमल(0) धारण(0) कर(या) हो(या) वह(के) सामने() प्रकट(0) हो(या) था(था)
+
+
+
+Hindi Sentence:
+ हिंदू धर्म में तीर्थ का बड़ा महत्व है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7:VGF' drel='r6:NP3' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ हिंदू(0) धर्म(0) में() तीर्थ(0) का() बड़ा() महत्व(0) है(है)
+
+
+
+Hindi Sentence:
+ दक्षिण रेलवे के चेन्नै स्टेशन से धनुष्कोटि जाने वाली मुख्य लाइन पर चेन्नै से 35 मील की दूरी पर चेंगलपट स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP4' drel='k7p:VGF' drel='nmod:NP6' drel='r6:NP7' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ दक्षिण(0) रेलवे(0) का() चेन्नै(0) स्टेशन(0) से() धनुष्कोटि(0) जा(ना) वाला() मुख्य() लाइन(0) पर() चेन्नै(0) से() 35() मील(0) का() दूरी(0) पर() चेंगलपट(0) स्टेशन(0) है(है)
+
+
+
+Hindi Sentence:
+ चेंगलपट स्टेशन से एक लाइन अरकोनम तक जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k5:VGF' drel='k1:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ चेंगलपट(0) स्टेशन(0) से() एक() लाइन(0) अरकोनम(0) तक() जा(ता) है(है)
+
+
+
+Hindi Sentence:
+ चेंगलपट स्टेशन से अरकोनम जाने वाली लाइन पर कांजीवरम स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP3' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ चेंगलपट(0) स्टेशन(0) से() अरकोनम(0) जान(ना) वाला() लाइन(0) पर() कांजीवरम(0) स्टेशन(0) है(है)
+
+
+
+Hindi Sentence:
+ स्टेशन का नाम कांजीवरम जरूर है किंतु नगर का नाम कांचीपुरम है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:VGF' drel='k1s:VGF' drel='adv:VGF' drel='ccof:CCP' drel='r6:NP5' drel='k1:VGF2' drel='k1s:VGF2' drel='ccof:CCP' drel='rsym:CCP'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ स्टेशन(0) का() नाम(0) कांजीवरम(0) जरूर() है(है) किंतु() नगर(0) का() नाम(0) कांचीपुरम(0) है(है)
+
+
+
+Hindi Sentence:
+ ’ अयोध्या ’ भगवान श्री राम के अवतार की पवित्र भूमि है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='r6:NP3' drel='r6:NP4' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ अयोध्या(0) भगवान(0) श्री(0) राम(0) का() अवतार(0) का() पवित्र() भूमि(0) है(है)
+
+
+
+Hindi Sentence:
+ अयोध्या पवित्र नदी सरयू के तट पर स्थित है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='r6:NP3' drel='k7p:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ अयोध्या(0) पवित्र() नदी(0) सरयू(0) का() तट(0) पर() स्थित() है(है)
+
+
+
+Hindi Sentence:
+ उत्तर रेलवे की मुगलसराय - लखनऊ लाइन के मुगलसराय स्टेशन से 128 मील की दूरी पर अयोध्या स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='r6:NP3' drel='nmod:NP4' drel='r6:NP5' drel='k7p:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ उत्तर(0) रेलवे(0) का() मुगलसराय(0) -() लखनऊ(0) लाइन(0) का() मुगलसराय(0) स्टेशन(0) से() 128() मील(0) का() दूरी(0) पर() अयोध्या(0) स्टेशन(0) है(है)
+
+
+
+Hindi Sentence:
+ शिप्रा अथवा क्षिप्रा नदी के तट पर बसी महाकाल की यह उज्जैन नगरी पतित पावनी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='ccof:CCP' drel='nmod:NP3' drel='ccof:CCP' drel='r6:NP4' drel='k7p:VGNF' drel='nmod__k1inv:NP6' drel='r6:NP6' drel='k1:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ शिप्रा(0) अथवा() क्षिप्रा(0) नदी(0) का() तट(0) पर() बस(या) महाकाल(0) का() यह() उज्जैन(0) नगरी(0) पतित() पावनी() है(है)
+
+
+
+Hindi Sentence:
+ कहते हैं कि उज्जैन में महाकाल को नमस्कार कर लेने पर फिर मृत्यु की चिंता नहीं रहती ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k2:VGF' drel='k7p:VGF2' drel='k2:VGNN' drel='pof:VGNN' drel='k7:VGF2' drel='adv:VGF2' drel='r6:NP5' drel='k1:VGF2' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ कह(ता) है(है) कि() उज्जैन(0) में() महाकाल(0) को() नमस्कार(0) कर(0) ले(ना) पर() फिर() मृत्यु(0) का() चिंता(0) नहीं() रह(ता)
+
+
+
+Hindi Sentence:
+ मध्य रेलवे की मुंबई - भोपाल - दिल्ली लाइन के भोपाल स्टेशन से एक लाइन उज्जैन जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='r6:NP3' drel='k5:VGF' drel='k1:VGF' drel='k2p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ मध्य() रेलवे(0) का() मुंबई(0) -() भोपाल(0) -() दिल्ली(0) लाइन(0) का() भोपाल(0) स्टेशन(0) से() एक() लाइन(0) उज्जैन(0) जा(ता) है(है)
+
+
+
+Hindi Sentence:
+ यूँ तो हर तीर्थ बड़ा और अहम है , लेकिन सात स्थानों की बड़ी महत्ता और मान्यता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='sent-adv:VGF' drel='k1:VGF' drel='ccof:CCP' drel='k1s:VGF' drel='UNDEF:CCP' drel='ccof:CCP2' drel='r6:NP3' drel='ccof:CCP3' drel='k1:VGF2' drel='ccof:CCP3' drel='ccof:CCP2' drel='rsym:CCP2'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यूँ() तो() हर() तीर्थ(0) बड़ा() और() अहम() है(है) लेकिन() सात() स्थान(0) का() बड़ा() महत्ता(0) और() मान्यता(0) है(है)
+
+
+
+Hindi Sentence:
+ पश्चिम रेलवे की मुंबई - कोटा - दिल्ली लाइन पर नागदा स्टेशन से एक बड़ी लाइन भी उज्जैन तक गई है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k7p:VGF' drel='k5:VGF' drel='k1:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पश्चिम(0) रेलवे(0) का() मुंबई(0) -() कोटा(0) -() दिल्ली(0) लाइन(0) पर() नागदा(0) स्टेशन(0) से() एक() बड़ा() लाइन(0) भी() उज्जैन(0) तक() जा(या1) है(है)
+
+
+
+Hindi Sentence:
+ उक्त लाइन के महू स्टेशन से भी एक लाइन उज्जैन को गई है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGF' drel='k1:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ उक्त() लाइन(0) का() महू(0) स्टेशन(0) से() भी() एक() लाइन(0) उज्जैन(0) को() जा(या1) है(है)
+
+
+
+Hindi Sentence:
+ द्वारका चार धामों में एक धाम भी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7p:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ द्वारका(0) चार() धाम(0) में() एक() धाम(0) भी() है(है)
+
+
+
+Hindi Sentence:
+ भगवान कृष्ण ने इसे समुद्र के बीच में विशेष रूप से बसाया था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k2:VGF' drel='k7p:VGF' drel='adv:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ भगवान(0) कृष्ण(0) ने() यह(को) समुद्र(0) के() बीच() में() विशेष() रूप(0) से() बसा(या) था(था)
+
+
+
+Hindi Sentence:
+ पश्चिम रेलवे की सुरेंद्रनगर - ओखा पोर्ट लाइन पर स्थित यह नगर समुद्र किनारे का स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='jjmod:JJP' drel='nmod:NP3' drel='k1:VGF' drel='r6:NP5' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पश्चिम(0) रेलवे(0) का() सुरेंद्रनगर(0) -() ओखा(0) पोर्ट(0) लाइन(0) पर() स्थित() यह() नगर(0) समुद्र(0) किनारा(0) का() स्टेशन(0) है(है)
+
+
+
+Hindi Sentence:
+ यमुना तट पर भगवान श्रीकृष्ण की अवतार भूमि का यह पवित्र नगर मथुरा है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' drel='r6:NP3' drel='r6:NP4' drel='k1:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यमुना(0) तट(0) पर() भगवान(0) श्रीकृष्ण(0) का() अवतार(0) भूमि(0) का() यह() पवित्र() नगर(0) मथुरा(0) है(है)
+
+
+
+Hindi Sentence:
+ पूर्वोत्तर रेलवे की आगरा फोर्ट से गोरखपुर जाने वाली लाइन तथा पश्चिम रेलवे की मुंबई - कोटा - दिल्ली लाइन पर मथुरा स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP4' drel='ccof:CCP' drel='k7p:VGF' drel='r6:NP6' drel='k7p:CCP' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पूर्वोत्तर(0) रेलवे(0) का() आगरा(0) फोर्ट(0) से() गोरखपुर(0) जा(ना) वाला() लाइन(0) तथा() पश्चिम(0) रेलवे(0) का() मुंबई(0) -() कोटा(0) -() दिल्ली(0) लाइन(0) पर() मथुरा(0) स्टेशन(0) है(है)
+
+
+
+Hindi Sentence:
+ गढ़ -
+
+Karakas/Dependency relation in Sentence are :
+ 
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गढ़(0) -()
+
+
+
+Hindi Sentence:
+ गढ़मुक्तेश्वर हिंदुओं का पावन तीर्थ है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='r6:NP3' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गढ़मुक्तेश्वर(0) हिंदू(0) का() पावन() तीर्थ(0) है(है)
+
+
+
+Hindi Sentence:
+ चलें गढ़ मुक्तेश्वर का गंगा मेला ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k2p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ चल(एं) गढ़(0) मुक्तेश्वर(0) का() गंगा(0) मेला(0)
+
+
+
+Hindi Sentence:
+ ये सातों धर्मस्थल सात नगरों या सप्तपुरियों के रूप में ग्रंथों में वर्णित हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='ccof:CCP' drel='k7:VGF' drel='ccof:CCP' drel='k7:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह() सात() धर्मस्थल(0) सात() नगर(0) या() सप्तपुरी(0) के() रूप() में() ग्रंथ(0) में() वर्णित() है(है)
+
+
+
+Hindi Sentence:
+ गाजियाबाद जिले के गढ़ मुक्तेश्वर में पतित पावनी गंगा के तट पर हर साल कार्तिक पूर्णिमा के अवसर पर लगने वाले उत्तर भारत के प्रसिद्ध और प्राचीन धार्मिक मेले का इतिहास लगभग पाँच हजार वर्ष पुराना है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k7p:VGF' drel='r6:NP4' drel='k7p:VGF' drel='k7t:VGNN' drel='r6:NP7' drel='k7:VGNN' drel='nmod:NP9' drel='r6:NP9' drel='ccof:CCP' drel='nmod:NP9' drel='ccof:CCP' drel='r6:NP10' drel='k1:VGF' drel='k7t:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गाजियाबाद(0) जिला(0) का() गढ़(0) मुक्तेश्वर(0) में() पतित() पावनी() गंगा(0) का() तट(0) पर() हर() साल(0) कार्तिक(0) पूर्णिमा(0) का() अवसर(0) पर() लग(ना) वाला() उत्तर(0) भारत(0) का() प्रसिद्ध() और() प्राचीन() धार्मिक() मेला(0) का() इतिहास(0) लगभग() पाँच() हजार() वर्ष(0) पुराना() है(है)
+
+
+
+Hindi Sentence:
+ इस बार भी गढ़ मुक्तेश्वर में मेले की भरपूर गहमागहमी है और मुख्य स्नान के लिए श्रद्धालुओं की भारी भीड़ जुट रही है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGF' drel='k7p:VGF' drel='r6:NP4' drel='k1:VGF' drel='ccof:CCP' drel='rt:VGF2' drel='r6:NP7' drel='k1:VGF2' drel='ccof:CCP' drel='rsym:CCP'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह() बार(0) भी() गढ़(0) मुक्तेश्वर(0) में() मेला(0) का() भरपूर() गहमागहमी(0) है(है) और() मुख्य() स्नान(0) के() लिए() श्रद्धालु(0) का() भारी() भीड़(0) जुट(0) रह(या) है(है)
+
+
+
+Hindi Sentence:
+ मुख्य स्नान 13 नवंबर को है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7t:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ मुख्य() स्नान(0) 13(0) नवंबर(0) को() है(है)
+
+
+
+Hindi Sentence:
+ गढ़ मुक्तेश्वर के विषय में कहा जाता है कि महाभारत के विनाशकारी युद्ध के बाद योगीराज श्रीकृष्ण , धर्मराज युधिष्ठिर व अर्जुन के मन में युद्ध की विभीषिका और नरसंहार को देखकर भारी ग्लानि हुई ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k7:VGF' drel='k2:VGF' drel='r6:NP4' drel='k7t:VGF2' drel='ccof:CCP2' drel='ccof:CCP2' drel='r6:NP8' drel='ccof:CCP2' drel='k7:VGF2' drel='r6:NP10' drel='ccof:CCP3' drel='k2:VGNF' drel='ccof:CCP3' drel='vmod:VGF2' drel='pof:VGF2' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गढ़(0) मुक्तेश्वर(0) का() विषय(0) में() कह(या) जा(ता) है(है) कि() महाभारत(0) का() विनाशकारी() युद्ध(0) के() बाद() योगीराज(0) श्रीकृष्ण(0) धर्मराज(0) युधिष्ठिर(0) व() अर्जुन(0) का() मन(0) में() युद्ध(0) का() विभीषिका(0) और() नरसंहार(0) को() देख(कर) भारी() ग्लानि(0) हो(या)
+
+
+
+Hindi Sentence:
+ वे इस सोच में पड़ गए कि युद्ध में मारे गए असंख्य कुटुम्बियों , बंधुओं व निर्दोष लोगों की आत्मा की शांति के लिए क्या उपाय या संस्कार किया जाए ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7:VGF' drel='k2:VGF' drel='k7:VGNF' drel='nmod__k1inv:NP4' drel='ccof:CCP2' drel='ccof:CCP2' drel='r6:NP7' drel='ccof:CCP2' drel='r6:NP8' drel='rt:VGF2' drel='ccof:CCP3' drel='pof:VGF2' drel='ccof:CCP3' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ वह(0) यह() सोच(0) में() पड़(0) जा(या1) कि() युद्ध(0) में() मार(या) जा(या1) असंख्य() कुटुम्बी(0) बंधु(0) व() निर्दोष() लोग(0) का() आत्मा(0) का() शांति(0) के() लिए() क्या() उपाय(0) या() संस्कार(0) कर(या) जा(एं)
+
+
+
+Hindi Sentence:
+ तब सबने एक राय से निर्णय लिया था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGF' drel='k1:VGF' drel='adv:VGF' drel='k2:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ तब() सब(ने) एक() राय(0) से() निर्णय(0) ले(या) था(था)
+
+
+
+Hindi Sentence:
+ खांडवी वन में भगवान परशुराम द्वारा स्थापित शिव बल्लभपुर नामक स्थान पर मुक्तेश्वर महादेव की पूजा NULL यज्ञ NULL तथा पतित पावनी गंगा में स्नान करने और वहाँ पिंडदान करने से सभी संस्कार पूर्ण हो जाएँगे ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' comment='probsent' drel='jjmod:JJP' drel='nmod:NP3' drel='jjmod:JJP2' drel='nmod:NP4' drel='k7:NULL__VGNN' drel='r6:NP6' drel='ccof:NULL__CCP' drel='ccof:NULL__CCP' drel='ccof:CCP2' drel='k7p:VGNN' drel='pof:VGNN' drel='ccof:CCP' drel='rh:VGF' drel='k7p:VGNN2' drel='pof:VGNN2' drel='ccof:CCP' drel='k1:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ खांडवी(0) वन(0) में() भगवान(0) परशुराम(0) द्वारा() स्थापित() शिव(0) बल्लभपुर(0) नामक() स्थान(0) पर() मुक्तेश्वर(0) महादेव(0) का() पूजा(0) () यज्ञ(0) () तथा() पतित() पावनी() गंगा(0) में() स्नान(0) कर(ना) और() वहाँ() पिंडदान(0) कर(ना) से() सभी() संस्कार(0) पूर्ण() हो(0) जा(गा)
+
+
+
+Hindi Sentence:
+ NULL ज्ञात रहे कि शिव बल्लभपुर को ही अब गढ़ मुक्तेश्वर के नाम से जाना जाता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1s:VGF' drel='rs:NULL__NP' drel='k2:VGF2' drel='k7t:VGF2' drel='r6:NP4' drel='vmod:VGF2' drel='ccof:CCP' drel='UNDEF:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ () ज्ञात() रह(एं) कि() शिव(0) बल्लभपुर(0) को() ही() अब() गढ़(0) मुक्तेश्वर(0) का() नाम(0) से() जान(या) जा(ता) है(है)
+
+
+
+Hindi Sentence:
+ भगवान राम के पूर्वज महाराज शिवि ने अपना वानप्रस्थ गढ़ मुक्तेश्वर में ही व्यतीत किया था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='nmod:NP3' drel='k1:VGF' drel='r6:NP5' drel='k2:VGF' drel='k7p:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ भगवान(0) राम(0) का() पूर्वज(0) महाराज(0) शिवि(0) ने() अपना(0) वानप्रस्थ(0) गढ़(0) मुक्तेश्वर(0) में() ही() व्यतीत() कर(या) था(था)
+
+
+
+Hindi Sentence:
+ महाराज शिव ने भगवान परशुराम से यहाँ शिव मंदिर की स्थापना कराई थी ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='mk1:VGF' drel='k7p:VGF' drel='r6-k2:NP5' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ महाराज(0) शिव(0) ने() भगवान(0) परशुराम(0) से() यहाँ() शिव(0) मंदिर(0) का() स्थापना(0) करा(या) था(था)
+
+
+
+Hindi Sentence:
+ ऐसा कहा गया है कि चतुर्मास में इन सप्तपुरियों का दर्शन मोक्ष प्रदान करने वाला होता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k2:VGF' drel='rs:NP' drel='k7t:VGF2' drel='r6:NP4' drel='k1:VGF2' drel='k2:VGF2' drel='pof:VGF2' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ ऐसा(0) कहा(0) जा(या1) है(है) कि() चतुर्मास(0) में() यह() सप्तपुरी(0) का() दर्शन(0) मोक्ष(0) प्रदान(0) कर(ना) वाला() हो(ता) है(है)
+
+
+
+Hindi Sentence:
+ उस समय गढ़ मुक्तेश्वर बल्लभ संप्रदाय का मुख्य केन्द्र था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGF' drel='k1:VGF' drel='r6:NP4' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ वह() समय(0) गढ़(0) मुक्तेश्वर(0) बल्लभ(0) संप्रदाय(0) का() मुख्य() केन्द्र(0) था(था)
+
+
+
+Hindi Sentence:
+ गढ़ मुक्तेश्वर का नाम शिव बल्लभपुर पड़ा ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गढ़(0) मुक्तेश्वर(0) का() नाम(0) शिव(0) बल्लभपुर(0) पड़(या)
+
+
+
+Hindi Sentence:
+ 
+
+Karakas/Dependency relation in Sentence are :
+ 
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ 
+
+
+
+Hindi Sentence:
+ इसका नाम बनारस या वाराणसी भी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k1:VGF' drel='ccof:CCP' drel='k1s:VGF' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह(का) नाम(0) बनारस(0) या() वाराणसी(0) भी() है(है)
+
+
+
+Hindi Sentence:
+ गंगा किनारे यह भगवान शंकर की प्रसिद्ध पुरी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' drel='k1:VGF' drel='r6:NP4' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गंगा(0) किनारा(0) यह(0) भगवान(0) शंकर(0) का() प्रसिद्ध() पुरी(0) है(है)
+
+
+
+Hindi Sentence:
+ मुगलसराय से अमृतसर तथा देहरादून जाने वाली मुख्य रेलवे लाइन पर मुगलसराय स्टेशन से 7 मील पर काशी NULL और उससे 4 मील आगे बनारस छावनी स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k5:VGNN' drel='ccof:CCP' drel='k2:VGNN' drel='ccof:CCP' drel='nmod:NP4' drel='k7p:NULL__VGF' drel='nmod:NP6' drel='k7p:NULL__VGF' drel='k1:NULL__VGF' drel='nmod:NP9' drel='k7p:VGF' drel='k1:VGF' drel='ccof:CCP2' drel='rsym:CCP2'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ मुगलसराय(0) से() अमृतसर(0) तथा() देहरादून(0) जा(ना) वाला() मुख्य() रेलवे(0) लाइन(0) पर() मुगलसराय(0) स्टेशन(0) से() 7() मील(0) पर() काशी(0) () और() वह(से) 4() मील(0) आगे() बनारस(0) छावनी(0) स्टेशन(0) है(है)
+
+
+
+Hindi Sentence:
+ इलाहाबाद के प्रयाग स्टेशन से भी एक सीधी लाइन काशी होते हुए बनारस छावनी तक जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGF' drel='k1:VGF' drel='k5:VGNF' drel='vmod:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ इलाहाबाद(0) का() प्रयाग(0) स्टेशन(0) से() भी() एक() सीधा() लाइन(0) काशी(0) हो(ता) हो(या) बनारस(0) छावनी(0) तक() जा(ता) है(है)
+
+

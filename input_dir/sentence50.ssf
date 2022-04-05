@@ -1,0 +1,25 @@
+<Sentence id='50'>
+1	((	NP	<fs name='NP' drel='k7t:VGF'>
+1.1	उस	DM_DMD	<fs af='वह,pn,any,sg,3,o,,' name='उस'>
+1.2	समय	N_NN	<fs af='समय,n,m,sg,3,d,0,0' name='समय'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	गढ़	N_NN	<fs af='गढ़,n,m,sg,3,d,0,0' name='गढ़'>
+2.2	मुक्तेश्वर	N_NNP	<fs af='मुक्तेश्वर,n,m,sg,3,d,0,0' name='मुक्तेश्वर'>
+	))
+3	((	NP	<fs name='NP3' drel='r6:NP4'>
+3.1	बल्लभ	N_NNP	<fs af='बल्लभ,n,m,sg,3,d,0,0' name='बल्लभ'>
+3.2	संप्रदाय	N_NN	<fs af='संप्रदाय,n,m,sg,3,o,0,0' name='संप्रदाय'>
+3.3	का	PSP	<fs af='का,psp,m,sg,,d,,' name='का'>
+	))
+4	((	NP	<fs name='NP4' drel='k1s:VGF'>
+4.1	मुख्य	JJ	<fs af='मुख्य,adj,any,any,,d,,' name='मुख्य'>
+4.2	केन्द्र	N_NN	<fs af='केन्द्र,n,m,sg,3,d,0,0' name='केन्द्र'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+5.1	था	V_VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

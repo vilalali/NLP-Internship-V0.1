@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ महाराज शिव ने भगवान परशुराम से यहाँ शिव मंदिर की स्थापना कराई थी ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='mk1:VGF' drel='k7p:VGF' drel='r6-k2:NP5' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ महाराज(0) शिव(0) ने() भगवान(0) परशुराम(0) से() यहाँ() शिव(0) मंदिर(0) का() स्थापना(0) करा(या) था(था)
+
+

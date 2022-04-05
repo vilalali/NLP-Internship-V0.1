@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ तब महालक्ष्मी हाथ में कमल धारण किए हुए उनके सामने प्रकट हुई थीं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGNF' drel='k1:VGF' drel='k7p:VGNF' drel='k2:VGNF' drel='pof:VGNF' drel='vmod:VGF' drel='k7p:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ तब() महालक्ष्मी(0) हाथ(0) में() कमल(0) धारण(0) कर(या) हो(या) वह(के) सामने() प्रकट(0) हो(या) था(था)
+
+

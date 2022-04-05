@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ खांडवी वन में भगवान परशुराम द्वारा स्थापित शिव बल्लभपुर नामक स्थान पर मुक्तेश्वर महादेव की पूजा NULL यज्ञ NULL तथा पतित पावनी गंगा में स्नान करने और वहाँ पिंडदान करने से सभी संस्कार पूर्ण हो जाएँगे ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7p:VGF' comment='probsent' drel='jjmod:JJP' drel='nmod:NP3' drel='jjmod:JJP2' drel='nmod:NP4' drel='k7:NULL__VGNN' drel='r6:NP6' drel='ccof:NULL__CCP' drel='ccof:NULL__CCP' drel='ccof:CCP2' drel='k7p:VGNN' drel='pof:VGNN' drel='ccof:CCP' drel='rh:VGF' drel='k7p:VGNN2' drel='pof:VGNN2' drel='ccof:CCP' drel='k1:VGF' drel='pof:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ खांडवी(0) वन(0) में() भगवान(0) परशुराम(0) द्वारा() स्थापित() शिव(0) बल्लभपुर(0) नामक() स्थान(0) पर() मुक्तेश्वर(0) महादेव(0) का() पूजा(0) () यज्ञ(0) () तथा() पतित() पावनी() गंगा(0) में() स्नान(0) कर(ना) और() वहाँ() पिंडदान(0) कर(ना) से() सभी() संस्कार(0) पूर्ण() हो(0) जा(गा)
+
+

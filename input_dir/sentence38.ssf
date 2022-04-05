@@ -1,0 +1,19 @@
+<Sentence id='38'>
+1	((	NP	<fs name='NP' drel='k1:VGF'>
+1.1	गढ़मुक्तेश्वर	N_NNP	<fs af='गढ़मुक्तेश्वर,n,m,sg,3,d,0,0' name='गढ़मुक्तेश्वर'>
+	))
+2	((	NP	<fs name='NP2' drel='r6:NP3'>
+2.1	हिंदुओं	N_NNP	<fs af='हिंदू,n,m,pl,3,o,0,0' name='हिंदुओं'>
+2.2	का	PSP	<fs af='का,psp,m,sg,,d,,' name='का'>
+	))
+3	((	NP	<fs name='NP3' drel='k1s:VGF'>
+3.1	पावन	JJ	<fs af='पावन,adj,any,any,,d,,' name='पावन'>
+3.2	तीर्थ	N_NN	<fs af='तीर्थ,n,m,sg,3,d,0,0' name='तीर्थ'>
+	))
+4	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+4.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

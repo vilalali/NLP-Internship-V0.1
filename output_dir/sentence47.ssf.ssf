@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ NULL ज्ञात रहे कि शिव बल्लभपुर को ही अब गढ़ मुक्तेश्वर के नाम से जाना जाता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1s:VGF' drel='rs:NULL__NP' drel='k2:VGF2' drel='k7t:VGF2' drel='r6:NP4' drel='vmod:VGF2' drel='ccof:CCP' drel='UNDEF:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ () ज्ञात() रह(एं) कि() शिव(0) बल्लभपुर(0) को() ही() अब() गढ़(0) मुक्तेश्वर(0) का() नाम(0) से() जान(या) जा(ता) है(है)
+
+

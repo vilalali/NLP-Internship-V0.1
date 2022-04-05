@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ द्वारका चार धामों में एक धाम भी है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k7p:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ द्वारका(0) चार() धाम(0) में() एक() धाम(0) भी() है(है)
+
+

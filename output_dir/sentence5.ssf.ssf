@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ ऐसा कहा गया है कि चतुर्मास में इन सप्तपुरियों का दर्शन मोक्ष प्रदान करने वाला होता है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k2:VGF' drel='rs:NP' drel='k7t:VGF2' drel='r6:NP4' drel='k1:VGF2' drel='k2:VGF2' drel='pof:VGF2' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ ऐसा(0) कहा(0) जा(या1) है(है) कि() चतुर्मास(0) में() यह() सप्तपुरी(0) का() दर्शन(0) मोक्ष(0) प्रदान(0) कर(ना) वाला() हो(ता) है(है)
+
+

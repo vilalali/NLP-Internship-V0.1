@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ गढ़ मुक्तेश्वर के विषय में कहा जाता है कि महाभारत के विनाशकारी युद्ध के बाद योगीराज श्रीकृष्ण , धर्मराज युधिष्ठिर व अर्जुन के मन में युद्ध की विभीषिका और नरसंहार को देखकर भारी ग्लानि हुई ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k7:VGF' drel='k2:VGF' drel='r6:NP4' drel='k7t:VGF2' drel='ccof:CCP2' drel='ccof:CCP2' drel='r6:NP8' drel='ccof:CCP2' drel='k7:VGF2' drel='r6:NP10' drel='ccof:CCP3' drel='k2:VGNF' drel='ccof:CCP3' drel='vmod:VGF2' drel='pof:VGF2' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गढ़(0) मुक्तेश्वर(0) का() विषय(0) में() कह(या) जा(ता) है(है) कि() महाभारत(0) का() विनाशकारी() युद्ध(0) के() बाद() योगीराज(0) श्रीकृष्ण(0) धर्मराज(0) युधिष्ठिर(0) व() अर्जुन(0) का() मन(0) में() युद्ध(0) का() विभीषिका(0) और() नरसंहार(0) को() देख(कर) भारी() ग्लानि(0) हो(या)
+
+

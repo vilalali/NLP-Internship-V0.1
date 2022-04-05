@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ गढ़मुक्तेश्वर हिंदुओं का पावन तीर्थ है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='r6:NP3' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गढ़मुक्तेश्वर(0) हिंदू(0) का() पावन() तीर्थ(0) है(है)
+
+

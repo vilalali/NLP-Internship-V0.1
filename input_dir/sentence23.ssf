@@ -1,0 +1,37 @@
+<Sentence id='23'>
+1	((	NP	<fs name='NP' drel='r6:NP2'>
+1.1	स्टेशन	N_NN	<fs af='स्टेशन,n,m,sg,3,o,0,0' name='स्टेशन'>
+1.2	का	PSP	<fs af='का,psp,m,sg,,d,,' name='का'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	नाम	N_NN	<fs af='नाम,n,m,sg,3,d,0,0' name='नाम'>
+	))
+3	((	NP	<fs name='NP3' drel='k1s:VGF'>
+3.1	कांजीवरम	N_NNP	<fs af='कांजीवरम,n,m,sg,3,d,0,0' name='कांजीवरम'>
+	))
+4	((	RBP	<fs name='RBP' drel='adv:VGF'>
+4.1	जरूर	RB	<fs af='जरूर,adv,,,,,,' name='जरूर'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative' drel='ccof:CCP'>
+5.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+6	((	CCP	<fs name='CCP'>
+6.1	किंतु	CC_CCD	<fs af='किंतु,avy,,,,,,' name='किंतु'>
+	))
+7	((	NP	<fs name='NP4' drel='r6:NP5'>
+7.1	नगर	N_NN	<fs af='नगर,n,m,sg,3,o,0,0' name='नगर'>
+7.2	का	PSP	<fs af='का,psp,m,sg,,d,,' name='का2'>
+	))
+8	((	NP	<fs name='NP5' drel='k1:VGF2'>
+8.1	नाम	N_NN	<fs af='नाम,n,m,sg,3,d,0,0' name='नाम2'>
+	))
+9	((	NP	<fs name='NP6' drel='k1s:VGF2'>
+9.1	कांचीपुरम	N_NNP	<fs af='कांचीपुरम,n,m,sg,3,d,0,0' name='कांचीपुरम'>
+	))
+10	((	VGF	<fs name='VGF2' voicetype='active' stype='declarative' drel='ccof:CCP'>
+10.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है2'>
+	))
+11	((	BLK	<fs name='BLK' drel='rsym:CCP'>
+11.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ अयोध्या पवित्र नदी सरयू के तट पर स्थित है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='r6:NP3' drel='k7p:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ अयोध्या(0) पवित्र() नदी(0) सरयू(0) का() तट(0) पर() स्थित() है(है)
+
+

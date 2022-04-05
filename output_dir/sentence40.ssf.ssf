@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ गाजियाबाद जिले के गढ़ मुक्तेश्वर में पतित पावनी गंगा के तट पर हर साल कार्तिक पूर्णिमा के अवसर पर लगने वाले उत्तर भारत के प्रसिद्ध और प्राचीन धार्मिक मेले का इतिहास लगभग पाँच हजार वर्ष पुराना है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k7p:VGF' drel='r6:NP4' drel='k7p:VGF' drel='k7t:VGNN' drel='r6:NP7' drel='k7:VGNN' drel='nmod:NP9' drel='r6:NP9' drel='ccof:CCP' drel='nmod:NP9' drel='ccof:CCP' drel='r6:NP10' drel='k1:VGF' drel='k7t:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ गाजियाबाद(0) जिला(0) का() गढ़(0) मुक्तेश्वर(0) में() पतित() पावनी() गंगा(0) का() तट(0) पर() हर() साल(0) कार्तिक(0) पूर्णिमा(0) का() अवसर(0) पर() लग(ना) वाला() उत्तर(0) भारत(0) का() प्रसिद्ध() और() प्राचीन() धार्मिक() मेला(0) का() इतिहास(0) लगभग() पाँच() हजार() वर्ष(0) पुराना() है(है)
+
+

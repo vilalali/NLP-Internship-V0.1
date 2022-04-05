@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ मुगलसराय से अमृतसर तथा देहरादून जाने वाली मुख्य रेलवे लाइन पर मुगलसराय स्टेशन से 7 मील पर काशी NULL और उससे 4 मील आगे बनारस छावनी स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k5:VGNN' drel='ccof:CCP' drel='k2:VGNN' drel='ccof:CCP' drel='nmod:NP4' drel='k7p:NULL__VGF' drel='nmod:NP6' drel='k7p:NULL__VGF' drel='k1:NULL__VGF' drel='nmod:NP9' drel='k7p:VGF' drel='k1:VGF' drel='ccof:CCP2' drel='rsym:CCP2'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ मुगलसराय(0) से() अमृतसर(0) तथा() देहरादून(0) जा(ना) वाला() मुख्य() रेलवे(0) लाइन(0) पर() मुगलसराय(0) स्टेशन(0) से() 7() मील(0) पर() काशी(0) () और() वह(से) 4() मील(0) आगे() बनारस(0) छावनी(0) स्टेशन(0) है(है)
+
+

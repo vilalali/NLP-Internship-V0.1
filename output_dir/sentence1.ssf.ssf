@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ सप्तपुरियों के दर्शन से मिलता है मोक्ष ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='rh:VGF' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ सप्तपुरी(0) का() दर्शन(0) से() मिल(ता) है(है) मोक्ष(0)
+
+

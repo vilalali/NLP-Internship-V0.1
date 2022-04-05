@@ -1,0 +1,49 @@
+<Sentence id='36'>
+1	((	NP	<fs name='NP' drel='r6:NP2'>
+1.1	पूर्वोत्तर	N_NNP	<fs af='पूर्वोत्तर,n,m,sg,3,d,0,0' name='पूर्वोत्तर'>
+1.2	रेलवे	N_NN	<fs af='रेलवे,n,m,sg,3,o,0,0' name='रेलवे'>
+1.3	की	PSP	<fs af='का,psp,f,sg,,o,,' name='की'>
+	))
+2	((	NP	<fs name='NP2' drel='k5:VGNN'>
+2.1	आगरा	N_NNP	<fs af='आगरा,n,m,sg,3,d,0,0' name='आगरा'>
+2.2	फोर्ट	N_NN	<fs af='फोर्ट,n,m,sg,3,o,0,0' name='फोर्ट'>
+2.3	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+	))
+3	((	NP	<fs name='NP3' drel='k2p:VGNN'>
+3.1	गोरखपुर	N_NNP	<fs af='गोरखपुर,n,m,sg,3,d,0,0' name='गोरखपुर'>
+	))
+4	((	VGNN	<fs name='VGNN' drel='nmod:NP4'>
+4.1	जाने	V_VM	<fs af='जा,v,any,any,any,o,ना,nA' name='जाने'>
+4.2	वाली	PSP	<fs af='वाला,psp,f,sg,,o,,' name='वाली'>
+	))
+5	((	NP	<fs name='NP4' drel='ccof:CCP'>
+5.1	लाइन	N_NN	<fs af='लाइन,n,f,sg,3,o,0,0' name='लाइन'>
+	))
+6	((	CCP	<fs name='CCP' drel='k7p:VGF'>
+6.1	तथा	CC_CCD	<fs af='तथा,avy,,,,,,' name='तथा'>
+	))
+7	((	NP	<fs name='NP5' drel='r6:NP6'>
+7.1	पश्चिम	N_NNP	<fs af='पश्चिम,n,m,sg,3,d,0,0' name='पश्चिम'>
+7.2	रेलवे	N_NN	<fs af='रेलवे,n,m,sg,3,o,0,0' name='रेलवे2'>
+7.3	की	PSP	<fs af='का,psp,f,sg,,o,,' name='की2'>
+	))
+8	((	NP	<fs name='NP6' drel='k7p:CCP'>
+8.1	मुंबई	N_NNP	<fs af='मुंबई,n,m,sg,3,d,0,0' name='मुंबई'>
+8.2	-	RD_SYM	<fs af='-,punc,,,,,,' name='-'>
+8.3	कोटा	N_NNP	<fs af='कोटा,n,m,sg,3,d,0,0' name='कोटा'>
+8.4	-	RD_SYM	<fs af='-,punc,,,,,,' name='-2'>
+8.5	दिल्ली	N_NNP	<fs af='दिल्ली,n,m,sg,3,d,0,0' name='दिल्ली'>
+8.6	लाइन	N_NN	<fs af='लाइन,n,f,sg,3,o,0,0' name='लाइन2'>
+8.7	पर	PSP	<fs af='पर,psp,,,,,,' name='पर'>
+	))
+9	((	NP	<fs name='NP7' drel='k1:VGF'>
+9.1	मथुरा	N_NNP	<fs af='मथुरा,n,m,sg,3,d,0,0' name='मथुरा'>
+9.2	स्टेशन	N_NN	<fs af='स्टेशन,n,m,sg,3,d,0,0' name='स्टेशन'>
+	))
+10	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+10.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+11	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+11.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ ये सातों धर्मस्थल सात नगरों या सप्तपुरियों के रूप में ग्रंथों में वर्णित हैं ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='ccof:CCP' drel='k7:VGF' drel='ccof:CCP' drel='k7:VGF' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ यह() सात() धर्मस्थल(0) सात() नगर(0) या() सप्तपुरी(0) के() रूप() में() ग्रंथ(0) में() वर्णित() है(है)
+
+

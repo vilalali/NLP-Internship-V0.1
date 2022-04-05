@@ -1,0 +1,17 @@
+<Sentence id='39'>
+1	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+1.1	चलें	V_VM	<fs af='चल,v,any,pl,3,,एं,eM' name='चलें'>
+	))
+2	((	NP	<fs name='NP' drel='r6:NP2'>
+2.1	गढ़	N_NN	<fs af='गढ़,n,m,sg,3,d,0,0' name='गढ़'>
+2.2	मुक्तेश्वर	N_NNP	<fs af='मुक्तेश्वर,n,m,sg,3,o,0,0' name='मुक्तेश्वर'>
+2.3	का	PSP	<fs af='का,psp,m,sg,,d,,' name='का'>
+	))
+3	((	NP	<fs name='NP2' drel='k2p:VGF'>
+3.1	गंगा	N_NNP	<fs af='गंगा,n,f,sg,3,d,0,0' name='गंगा'>
+3.2	मेला	N_NN	<fs af='मेला,n,m,sg,3,d,0,0' name='मेला'>
+	))
+4	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+4.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

@@ -1,0 +1,21 @@
+<Sentence id='17'>
+1	((	NP	<fs name='NP' drel='k5:VGF'>
+1.1	लक्सर	N_NNP	<fs af='लक्सर,n,m,sg,3,o,0,0' name='लक्सर'>
+1.2	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+	))
+2	((	NP	<fs name='NP2' drel='k1:VGF'>
+2.1	एक	QT_QTC	<fs af='एक,num,any,any,,any,,' name='एक'>
+2.2	लाइन	N_NN	<fs af='लाइन,n,f,sg,3,d,0,0' name='लाइन'>
+	))
+3	((	NP	<fs name='NP3' drel='k7p:VGF'>
+3.1	हरिद्वार	N_NNP	<fs af='हरिद्वार,n,m,sg,3,o,0,0' name='हरिद्वार'>
+3.2	तक	PSP	<fs af='तक,psp,,,,,,' name='तक'>
+	))
+4	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+4.1	गई	V_VM	<fs af='जा,v,f,any,any,,या1,yA1' name='गई'>
+4.2	है	V_VAUX	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+5	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+5.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

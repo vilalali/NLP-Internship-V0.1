@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ भगवान कृष्ण ने इसे समुद्र के बीच में विशेष रूप से बसाया था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='k2:VGF' drel='k7p:VGF' drel='adv:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ भगवान(0) कृष्ण(0) ने() यह(को) समुद्र(0) के() बीच() में() विशेष() रूप(0) से() बसा(या) था(था)
+
+

@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ पूर्वोत्तर रेलवे की आगरा फोर्ट से गोरखपुर जाने वाली लाइन तथा पश्चिम रेलवे की मुंबई - कोटा - दिल्ली लाइन पर मथुरा स्टेशन है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGNN' drel='k2p:VGNN' drel='nmod:NP4' drel='ccof:CCP' drel='k7p:VGF' drel='r6:NP6' drel='k7p:CCP' drel='k1:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ पूर्वोत्तर(0) रेलवे(0) का() आगरा(0) फोर्ट(0) से() गोरखपुर(0) जा(ना) वाला() लाइन(0) तथा() पश्चिम(0) रेलवे(0) का() मुंबई(0) -() कोटा(0) -() दिल्ली(0) लाइन(0) पर() मथुरा(0) स्टेशन(0) है(है)
+
+

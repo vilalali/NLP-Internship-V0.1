@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ इलाहाबाद के प्रयाग स्टेशन से भी एक सीधी लाइन काशी होते हुए बनारस छावनी तक जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGF' drel='k1:VGF' drel='k5:VGNF' drel='vmod:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ इलाहाबाद(0) का() प्रयाग(0) स्टेशन(0) से() भी() एक() सीधा() लाइन(0) काशी(0) हो(ता) हो(या) बनारस(0) छावनी(0) तक() जा(ता) है(है)
+
+

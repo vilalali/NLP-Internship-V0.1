@@ -1,0 +1,47 @@
+<Sentence id='20'>
+1	((	NP	<fs name='NP' drel='r6:NP2'>
+1.1	दक्षिण	N_NNP	<fs af='दक्षिण,n,m,sg,3,d,0,0' name='दक्षिण'>
+1.2	रेलवे	N_NN	<fs af='रेलवे,n,m,sg,3,o,0,0' name='रेलवे'>
+1.3	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के'>
+	))
+2	((	NP	<fs name='NP2' drel='k5:VGNN'>
+2.1	चेन्नै	N_NNP	<fs af='चेन्नै,n,m,sg,3,d,0,0' name='चेन्नै'>
+2.2	स्टेशन	N_NN	<fs af='स्टेशन,n,m,sg,3,o,0,0' name='स्टेशन'>
+2.3	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+	))
+3	((	NP	<fs name='NP3' drel='k2p:VGNN'>
+3.1	धनुष्कोटि	N_NNP	<fs af='धनुष्कोटि,n,f,sg,3,d,0,0' name='धनुष्कोटि'>
+	))
+4	((	VGNN	<fs name='VGNN' drel='nmod:NP4'>
+4.1	जाने	V_VM	<fs af='जा,v,any,any,any,o,ना,nA' name='जाने'>
+4.2	वाली	PSP	<fs af='वाला,psp,f,sg,,o,,' name='वाली'>
+	))
+5	((	NP	<fs name='NP4' drel='k7p:VGF'>
+5.1	मुख्य	JJ	<fs af='मुख्य,adj,any,any,,o,,' name='मुख्य'>
+5.2	लाइन	N_NN	<fs af='लाइन,n,f,sg,3,o,0,0' name='लाइन'>
+5.3	पर	PSP	<fs af='पर,psp,,,,,,' name='पर'>
+	))
+6	((	NP	<fs name='NP5' drel='nmod:NP6'>
+6.1	चेन्नै	N_NNP	<fs af='चेन्नै,n,m,sg,3,o,0,0' name='चेन्नै2'>
+6.2	से	PSP	<fs af='से,psp,,,,,,' name='से2'>
+	))
+7	((	NP	<fs name='NP6' drel='r6:NP7'>
+7.1	35	QT_QTC	<fs af='35,num,any,any,,any,,' name='35'>
+7.2	मील	N_NN	<fs af='मील,n,m,sg,3,o,0,0' name='मील'>
+7.3	की	PSP	<fs af='का,psp,f,sg,,o,,' name='की'>
+	))
+8	((	NP	<fs name='NP7' drel='k7p:VGF'>
+8.1	दूरी	N_NN	<fs af='दूरी,n,f,sg,3,o,0,0' name='दूरी'>
+8.2	पर	PSP	<fs af='पर,psp,,,,,,' name='पर2'>
+	))
+9	((	NP	<fs name='NP8' drel='k1:VGF'>
+9.1	चेंगलपट	N_NNP	<fs af='चेंगलपट,n,m,sg,3,d,0,0' name='चेंगलपट'>
+9.2	स्टेशन	N_NN	<fs af='स्टेशन,n,m,sg,3,d,0,0' name='स्टेशन2'>
+	))
+10	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+10.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+11	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+11.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

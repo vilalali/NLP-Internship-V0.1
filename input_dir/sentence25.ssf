@@ -1,0 +1,24 @@
+<Sentence id='25'>
+1	((	NP	<fs name='NP' drel='k1:VGF'>
+1.1	अयोध्या	N_NNP	<fs af='अयोध्या,n,m,sg,3,d,0,0' name='अयोध्या'>
+	))
+2	((	NP	<fs name='NP2' drel='r6:NP3'>
+2.1	पवित्र	JJ	<fs af='पवित्र,adj,any,any,,o,,' name='पवित्र'>
+2.2	नदी	N_NN	<fs af='नदी,n,f,sg,3,d,0,0' name='नदी'>
+2.3	सरयू	N_NNP	<fs af='सरयू,n,f,sg,3,o,0,0' name='सरयू'>
+2.4	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के'>
+	))
+3	((	NP	<fs name='NP3' drel='k7p:VGF'>
+3.1	तट	N_NN	<fs af='तट,n,m,sg,3,o,0,0' name='तट'>
+3.2	पर	PSP	<fs af='पर,psp,,,,,,' name='पर'>
+	))
+4	((	JJP	<fs name='JJP' drel='k1s:VGF'>
+4.1	स्थित	JJ	<fs af='स्थित,adj,any,any,,,,' name='स्थित'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+5.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

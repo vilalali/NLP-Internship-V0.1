@@ -1,0 +1,27 @@
+<Sentence id='24'>
+1	((	NP	<fs name='NP' drel='k1:VGF'>
+1.1	’	RD_PUNC	<fs af='punc,’,10,’,punc,,,' case='''' vib='''' tam='''' name='’'>
+1.2	अयोध्या	N_NNP	<fs af='अयोध्या,n,m,sg,3,d,0,0' name='अयोध्या'>
+1.3	’	RD_PUNC	<fs af='’,punc,,,,,,' name='’2'>
+	))
+2	((	NP	<fs name='NP2' drel='r6:NP3'>
+2.1	भगवान	N_NN	<fs af='भगवान,n,m,sg,3,d,0,0' name='भगवान'>
+2.2	श्री	N_NN	<fs af='श्री,n,m,sg,3,d,0,0' name='श्री'>
+2.3	राम	N_NNP	<fs af='राम,n,m,sg,3,o,0,0' name='राम'>
+2.4	के	PSP	<fs af='का,psp,m,sg,,o,,' name='के'>
+	))
+3	((	NP	<fs name='NP3' drel='r6:NP4'>
+3.1	अवतार	N_NN	<fs af='अवतार,n,m,sg,3,o,0,0' name='अवतार'>
+3.2	की	PSP	<fs af='का,psp,f,sg,,d,,' name='की'>
+	))
+4	((	NP	<fs name='NP4' drel='k1s:VGF'>
+4.1	पवित्र	JJ	<fs af='पवित्र,adj,any,any,,d,,' name='पवित्र'>
+4.2	भूमि	N_NN	<fs af='भूमि,n,f,sg,3,d,0,0' name='भूमि'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+5.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ ’ अयोध्या ’ भगवान श्री राम के अवतार की पवित्र भूमि है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k1:VGF' drel='r6:NP3' drel='r6:NP4' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ अयोध्या(0) भगवान(0) श्री(0) राम(0) का() अवतार(0) का() पवित्र() भूमि(0) है(है)
+
+

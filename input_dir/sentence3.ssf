@@ -1,0 +1,47 @@
+<Sentence id='3'>
+1	((	BLK	<fs name='BLK' drel='sent-adv:VGF'>
+1.1	यूँ	RP_RPD	<fs af='यूँ,avy,,,,,,' name='यूँ'>
+1.2	तो	RP_RPD	<fs af='तो,avy,,,,,,' name='तो'>
+	))
+2	((	NP	<fs name='NP' drel='k1:VGF'>
+2.1	हर	QT_QTF	<fs af='हर,avy,,,,,,' name='हर'>
+2.2	तीर्थ	N_NN	<fs af='तीर्थ,n,m,sg,3,d,0,0' name='तीर्थ'>
+	))
+3	((	JJP	<fs name='JJP' drel='ccof:CCP'>
+3.1	बड़ा	JJ	<fs af='बड़ा,adj,m,sg,,,,' name='बड़ा'>
+	))
+4	((	CCP	<fs name='CCP' drel='k1s:VGF'>
+4.1	और	CC_CCD	<fs af='और,avy,,,,,,' name='और'>
+	))
+5	((	JJP	<fs name='JJP2' drel='UNDEF:CCP'>
+5.1	अहम	JJ	<fs af='अहम,adj,any,any,,,,' name='अहम'>
+	))
+6	((	VGF	<fs name='VGF' voicetype='active' stype='declarative' drel='ccof:CCP2'>
+6.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है'>
+6.2	,	RD_PUNC	<fs af='&comma,punc,,,,,,' name=','>
+	))
+7	((	CCP	<fs name='CCP2'>
+7.1	लेकिन	CC_CCS	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))
+8	((	NP	<fs name='NP2' drel='r6:NP3'>
+8.1	सात	QT_QTC	<fs af='सात,num,any,any,,any,,' name='सात'>
+8.2	स्थानों	N_NN	<fs af='स्थान,n,m,pl,3,o,0,0' name='स्थानों'>
+8.3	की	PSP	<fs af='का,psp,f,sg,,d,,' name='की'>
+	))
+9	((	NP	<fs name='NP3' drel='ccof:CCP3'>
+9.1	बड़ी	JJ	<fs af='बड़ा,adj,f,sg,,d,,' name='बड़ी'>
+9.2	महत्ता	N_NN	<fs af='महत्ता,n,f,sg,3,d,0,0' name='महत्ता'>
+	))
+10	((	CCP	<fs name='CCP3' drel='k1:VGF2'>
+10.1	और	CC_CCD	<fs af='और,avy,,,,,,' name='और2'>
+	))
+11	((	NP	<fs name='NP4' drel='ccof:CCP3'>
+11.1	मान्यता	N_NN	<fs af='मान्यता,n,f,sg,3,d,0,0' name='मान्यता'>
+	))
+12	((	VGF	<fs name='VGF2' voicetype='active' stype='declarative' drel='ccof:CCP2'>
+12.1	है	V_VM	<fs af='है,v,any,sg,3,,है,hE' name='है2'>
+	))
+13	((	BLK	<fs name='BLK2' drel='rsym:CCP2'>
+13.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

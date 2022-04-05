@@ -1,0 +1,27 @@
+<Sentence id='11'>
+1	((	NP	<fs name='NP' drel='k3:VGF'>
+1.1	इस	DM_DMD	<fs af='यह,pn,any,sg,3,o,,' name='इस'>
+1.2	रास्ते	N_NN	<fs af='रास्ता,n,m,sg,3,o,0,0' name='रास्ते'>
+1.3	से	PSP	<fs af='से,psp,,,,,,' name='से'>
+1.4	भी	RP_RPD	<fs af='भी,avy,,,,,,' name='भी'>
+	))
+2	((	NP	<fs name='NP2' drel='k5:VGNF'>
+2.1	बनारस	N_NNP	<fs af='बनारस,n,m,sg,3,d,0,0' name='बनारस'>
+2.2	सिटी	N_NN	<fs af='सिटी,n,f,sg,3,d,0,0' name='सिटी'>
+	))
+3	((	VGNF	<fs name='VGNF' drel='vmod:VGF'>
+3.1	होते	V_VM	<fs af='हो,v,m,any,any,,ता,wA' name='होते'>
+3.2	हुए	V_VAUX	<fs af='हो,v,m,any,any,,या,yA' name='हुए'>
+	))
+4	((	NP	<fs name='NP3' drel='k2p:VGF'>
+4.1	छावनी	N_NN	<fs af='छावनी,n,f,sg,3,d,0,0' name='छावनी'>
+	))
+5	((	VGF	<fs name='VGF' voicetype='active' stype='declarative'>
+5.1	जा	V_VM	<fs af='जा,v,any,any,any,,0,0' name='जा'>
+5.2	सकते	V_VAUX	<fs af='सक,v,m,pl,any,,ता,wA' name='सकते'>
+5.3	हैं	V_VAUX	<fs af='है,v,any,pl,3,,है,hE' name='हैं'>
+	))
+6	((	BLK	<fs name='BLK' drel='rsym:VGF'>
+6.1	।	RD_PUNC	<fs af='।,punc,,,,,,' name='।'>
+	))
+</Sentence>

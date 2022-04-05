@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ चेंगलपट स्टेशन से एक लाइन अरकोनम तक जाती है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k5:VGF' drel='k1:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ चेंगलपट(0) स्टेशन(0) से() एक() लाइन(0) अरकोनम(0) तक() जा(ता) है(है)
+
+

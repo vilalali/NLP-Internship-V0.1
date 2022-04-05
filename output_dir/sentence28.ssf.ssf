@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ कहते हैं कि उज्जैन में महाकाल को नमस्कार कर लेने पर फिर मृत्यु की चिंता नहीं रहती ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k2:VGF' drel='k7p:VGF2' drel='k2:VGNN' drel='pof:VGNN' drel='k7:VGF2' drel='adv:VGF2' drel='r6:NP5' drel='k1:VGF2' drel='ccof:CCP' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ कह(ता) है(है) कि() उज्जैन(0) में() महाकाल(0) को() नमस्कार(0) कर(0) ले(ना) पर() फिर() मृत्यु(0) का() चिंता(0) नहीं() रह(ता)
+
+

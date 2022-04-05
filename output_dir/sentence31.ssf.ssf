@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ उक्त लाइन के महू स्टेशन से भी एक लाइन उज्जैन को गई है ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='r6:NP2' drel='k5:VGF' drel='k1:VGF' drel='k7p:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ उक्त() लाइन(0) का() महू(0) स्टेशन(0) से() भी() एक() लाइन(0) उज्जैन(0) को() जा(या1) है(है)
+
+

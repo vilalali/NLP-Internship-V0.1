@@ -1,0 +1,11 @@
+
+Hindi Sentence:
+ उस समय गढ़ मुक्तेश्वर बल्लभ संप्रदाय का मुख्य केन्द्र था ।
+
+Karakas/Dependency relation in Sentence are :
+ drel='k7t:VGF' drel='k1:VGF' drel='r6:NP4' drel='k1s:VGF' drel='rsym:VGF'
+
+Vibhakti/Case Marker in Sentence word by word () are :
+ वह() समय(0) गढ़(0) मुक्तेश्वर(0) बल्लभ(0) संप्रदाय(0) का() मुख्य() केन्द्र(0) था(था)
+
+
